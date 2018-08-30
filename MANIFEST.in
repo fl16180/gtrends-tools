@@ -1,0 +1,2 @@
+include README
+global-exclude *.pyc __pycache__
