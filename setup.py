@@ -7,7 +7,7 @@ def readme():
 
 SHORT_DESCRIPTION = 'Interface for retrieving data from Google Health Trends API'
 VERSION = '0.1'
-URL = 'http://github.com/fl16180/gtrends-tools'
+URL = 'https://github.com/fl16180/gtrends-tools'
 
 
 setup(

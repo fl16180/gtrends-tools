@@ -1,2 +1,2 @@
-include README
+include README.md
 global-exclude *.pyc __pycache__
