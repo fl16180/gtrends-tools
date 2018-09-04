@@ -5,7 +5,7 @@ I hope to expand this package by adding tools for Google Correlate and methodolo
 
 ## Installation
 
-To install gtrends-tools with pip, run: `pip install healthtrends`
+To install gtrends-tools with pip, run: `pip install healthtrends` (NOT SETUP YET)
 
 To install gtrends-tools from source, first clone the repository and then run:
 `python setup.py install`
@@ -45,4 +45,4 @@ Search frequencies obtained from the Google Trends API using this code (or previ
 ## Credits
 Package structure inspired by <https://github.com/GeneralMills/pytrends>
 
-The original Google Health Trends API script has been passed around a few times before being adapted by Andre Nguyen and passed to me. I don't know what the original source is but have seen duplicate of the original script in other github repos. As such, I felt that re-writing it into a package with OOP interface would best facilitate scientific sharing of research methods.
+The original Google Health Trends API script has been passed around a few times before being adapted by Andre Nguyen and passed to me. I don't know what the original source is but have seen duplicate of the original script in other github repos. As such, I felt that converting it into a package with OOP interface would best facilitate scientific sharing of research methods.
