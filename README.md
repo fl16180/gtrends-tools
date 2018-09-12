@@ -5,7 +5,7 @@ I hope to expand this package by adding tools for Google Correlate and methodolo
 
 ## Installation
 
-To install gtrends-tools with pip, run: `pip install healthtrends` (NOT SETUP YET)
+To install gtrends-tools with pip, run: `pip install healthtrends`
 
 To install gtrends-tools from source, first clone the repository and then run:
 `python setup.py install`

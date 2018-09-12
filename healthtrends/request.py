@@ -7,6 +7,9 @@ import datetime
 import sys
 import time
 
+reload(sys)
+sys.setdefaultencoding("utf-8")
+
 from googleapiclient.discovery import build
 
 from healthtrends.decorators import retry, timeit
