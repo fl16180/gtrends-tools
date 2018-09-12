@@ -5,7 +5,7 @@ I hope to expand this package by adding tools for Google Correlate and methodolo
 
 ## Installation
 
-To install gtrends-tools with pip, run: `pip install healthtrends`
+To install gtrends-tools with pip, run: `pip install gtrends-tools`
 
 To install gtrends-tools from source, first clone the repository and then run:
 `python setup.py install`
@@ -36,7 +36,7 @@ Parameters for request_trends are:
 - end_date: last day to download data from, in form 'YYYY-MM-DD'. Defaults to today's date.
 - freq: time interval of data, one of 'day', 'week', 'month', 'year'. Defaults to 'week'
 
-For additional examples, refer to the [included scripts](bin/example.py). I will add more detailed documentation of parameters later, as well as scripts to get data remotely (for IP restrictions on API access).
+For additional examples, refer to the [example scripts](./example/). I will add more detailed documentation of parameters later, as well as scripts to get data remotely (for IP restrictions on API access).
 
 
 ## Research
